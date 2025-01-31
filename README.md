@@ -1,4 +1,4 @@
-# Instagram Reel Downloader Bot
+# Instagram Reels Downloader Bot
 
 This is a Telegram bot that allows users to download Instagram reels by simply providing the URL of the reel. The bot utilizes the `instaloader` library to fetch and download the video content.
 
@@ -18,8 +18,8 @@ This is a Telegram bot that allows users to download Instagram reels by simply p
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/Anon4You/Instagram-reel-downloader.git
-   cd Instagram-reel-downloader
+   git clone https://github.com/Anon4You/Instagram-reels-downloader.git
+   cd Instagram-reels-downloader
    ```
 
 2. Install the required packages listed in `requirements.txt`:
